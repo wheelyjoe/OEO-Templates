@@ -1,0 +1,8 @@
+metadata = {
+	["rank"]     = 1,
+	["objtype"]  = "c2",
+	["exclusion"] = nil,
+	["base"]     = nil,
+	["intel"]	 = 3,
+	["alwaysSpawn"] = false,
+}

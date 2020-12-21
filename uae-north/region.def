@@ -1,0 +1,11 @@
+region = {
+    ["name"] = "uae-border",
+    ["priority"] = 4,
+		["airspace"] = false,
+    ["limits"] = {
+        ["specialforces"] = {
+            ["min"] = 6,
+            ["max"] = 8,
+        },
+    },
+}
