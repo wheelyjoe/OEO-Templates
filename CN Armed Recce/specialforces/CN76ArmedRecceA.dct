@@ -1,7 +1,7 @@
 metadata = {
 	["rank"]     = 2,
 	["objtype"]  = "specialforces",
-	["exclusion"] = nil,
+	["exclusion"] = "CN76",
 	["base"]     = nil,
 	["intel"]	 = 1,
 	["alwaysSpawn"] = false,
