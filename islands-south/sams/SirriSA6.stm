@@ -1062,7 +1062,7 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "%LOCATIONMETHOD% an active SA-6 GAINFUL SAM site at %LOCATION%, west of Havadarya.\
+    ["desc"] = "%LOCATIONMETHOD% an active SA-6 GAINFUL SAM site at %LOCATION%, on Sirri Island.\
 \
 Primary Objectives: Destroy all equipment at the site.\
 \
