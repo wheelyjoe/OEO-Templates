@@ -1,8 +1,0 @@
-metadata = {
-	["rank"]     = 2,
-	["objtype"]  = "specialforces",
-	["exclusion"] = "DN29",
-	["base"]     = nil,
-	["intel"]	 = 1,
-	["alwaysSpawn"] = false,
-}
