@@ -1430,7 +1430,7 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "%LOCATIONMETHOD% Iranian infantry bivouac near the UAE Omanu border near Khasab, %LOCATION%. ELINT has indicated that Rapier SAMS may be active near these sites.\
+    ["desc"] = "%LOCATIONMETHOD% Iranian infantry bivouac near the UAE / Omani border near Khasab, %LOCATION%. ELINT has indicated that Rapier SAMS may be active near these sites.\
 \\\
 Primary Objectives: Destroy any tents or vehicles.\
 \\\

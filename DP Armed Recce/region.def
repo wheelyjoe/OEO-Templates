@@ -1,5 +1,5 @@
 region = {
-    ["name"] = "uae-mountains",
+    ["name"] = "DP-Armed-Recce",
     ["priority"] = 3,
 		["airspace"] = false,
     ["limits"] = {
